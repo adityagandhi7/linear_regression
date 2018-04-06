@@ -1,6 +1,6 @@
 # linear_regression
 
-The activity has been performed using the Growth of Orange Trees dataset as specified here:: https://www.rdocumentation.org/packages/datasets/versions/3.4.3/topics/Orange 
+The activity has been performed using the Growth of Orange Trees dataset (https://www.rdocumentation.org/packages/datasets/versions/3.4.3/topics/Orange), and making additions/modifications to the dataset. 
 
 The tasks performed are as follows:
 1. Linear regression with continuous and categorical variables
